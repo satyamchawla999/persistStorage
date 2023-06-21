@@ -1,0 +1,7 @@
+.main {
+    display: flex;
+}
+
+.main div  {
+    border-right: 2px solid lightgrey;
+}
